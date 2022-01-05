@@ -3,9 +3,8 @@
 
 This repository contains code for the following paper
 
-```
-Chejara P., Prieto L.P., Ruiz-Calleja A., Rodríguez-Triana M.J., Shankar S.K., Kasepalu R. (2020) Quantifying Collaboration Quality in Face-to-Face Classroom Settings Using MMLA. In: Nolte A., Alvarez C., Hishiyama R., Chounta IA., Rodríguez-Triana M., Inoue T. (eds) Collaboration Technologies and Social Computing. CollabTech 2020. Lecture Notes in Computer Science, vol 12324. Springer, Cham. https://doi.org/10.1007/978-3-030-58157-2_11
-```
+> Chejara P., Prieto L.P., Ruiz-Calleja A., Rodríguez-Triana M.J., Shankar S.K., Kasepalu R. (2020) Quantifying Collaboration Quality in Face-to-Face Classroom Settings Using MMLA. In: Nolte A., Alvarez C., Hishiyama R., Chounta IA., Rodríguez-Triana M., Inoue T. (eds) Collaboration Technologies and Social Computing. CollabTech 2020. Lecture Notes in Computer Science, vol 12324. Springer, Cham. https://doi.org/10.1007/978-3-030-58157-2_11
+
 
 ## Analysis results
 We present a case study that evaluates the feasibility of quantifying collaboration quality and its multiple sub-dimensions (e.g., collaboration flow) in an authentic classroom setting. We collected multimodal data (audio and logs) from two groups collaborating face-to-face and in a collaborative writing task. The paper describes our exploration of different machine learning models and compares their performance with that of human coders, in the task of estimating collaboration quality along a continuum.  Our results show that it is feasible to quantitatively estimate collaboration quality and its sub-dimensions, even from simple features of audio and log data, using machine learning.  These findings open possibilities for in-depth automated quantification of collaboration quality, and the use of more advanced features and algorithms to get their performance closer to that of human coders.
